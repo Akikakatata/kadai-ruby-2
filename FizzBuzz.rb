@@ -7,9 +7,10 @@ def fizzbuzz(num)
     elsif num % 5 == 0
         p "Buzz" 
     else 
-        p num 
+        p num
     end 
 end 
+
 
 num_max = 100
 i=1
